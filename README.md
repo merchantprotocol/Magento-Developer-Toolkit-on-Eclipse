@@ -1,6 +1,8 @@
 # Magento Developers Toolkit for Eclipse
 
-Eclipse plugin for Magento (www.magentocommerce.com) module developers. Provides set of helpful wizards that will create required directory structure and configuration entries. Main features provided by plugin are as follows:
+#### [Get Magento Support @ Merchantprotocol.com](https://merchantprotocol.com)
+
+This Eclipse IDE plugin will speed up your Magento development by quickly creating the required directory structures and configuration files that you all need. Here are a few features:
 
 * Magento Module structure generation
 * Creating models with installation scripts
@@ -16,5 +18,4 @@ Eclipse plugin for Magento (www.magentocommerce.com) module developers. Provides
 
 ## Notice
 
-This repository is not maintained anymore. This was my first and so far last Eclipse Plugin. If You are intrested in taking over this repository don't hesitate to contact me (code was moved to github to give it last chance for beeing helpfull).
 
