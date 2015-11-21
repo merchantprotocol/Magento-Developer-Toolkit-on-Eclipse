@@ -16,6 +16,3 @@ This Eclipse IDE plugin will speed up your Magento development by quickly creati
 * Creating modman files for Magento modules
 * Editor helper dialogs for inserting models, helpers and store configuration
 
-## Notice
-
-
